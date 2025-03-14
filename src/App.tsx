@@ -66,7 +66,7 @@ const App = () => {
                       routing="path" 
                       path="/sign-in" 
                       signUpUrl="/sign-up"
-                      redirectUrl="/builder"
+                      redirectUrl="/"
                       appearance={{
                         elements: {
                           rootBox: "mx-auto w-full max-w-md",
